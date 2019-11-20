@@ -36,5 +36,4 @@ class App < Sinatra::Base
       (num1 / num2).to_s
     end
   end
-  
 end
